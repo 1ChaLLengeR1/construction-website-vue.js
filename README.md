@@ -9,10 +9,11 @@
 - similar information: https://arturscibor.pl/projects/project/f6ece8b2-c4f5-4802-9535-b66ea10b2a35
 
 # Project idea:
-###### The idea for the website was to build a visual website for the client, but unfortunately the client gave up on the idea. This Project was supposed to be a simple showcase. While writing, I decided that I would add a simple backend based on node.js to learn something more than just the frontend.
+###### The idea for the website was to build a visual website for the client, but unfortunately the client gave up on the idea. This Project was supposed to be a simple showcase. While writing, I decided that I would add a simple backend based on node.js to learn something more than just the frontend. I made the project myself in Figma, unfortunately I don't have the save :(
 
 # Technologies:
 ### Frontend:
+- Figma
 - Vue.js
 - Vuex
 - Vue Router
@@ -56,10 +57,11 @@
 - podobne informacje: [https://arturscibor.pl/projects/project/f6ece8b2-c4f5-4802-9535-b66ea10b2a35](https://arturscibor.pl/projects/project/f6ece8b2-c4f5-4802-9535-b66ea10b2a35)
 
 # Pomysł na projekt:
-###### Pomysł na stronę był taki, aby stworzyć wizualną stronę dla klienta, ale niestety klient zrezygnował z tego pomysłu. Ten projekt miał być prostą witryną pokazową. Podczas pisania postanowiłem dodać prosty backend oparty na node.js, aby nauczyć się czegoś więcej niż tylko frontendu.
+###### Pomysł na stronę był taki, aby stworzyć wizualną stronę dla klienta, ale niestety klient zrezygnował z tego pomysłu. Ten projekt miał być prostą witryną pokazową. Podczas pisania postanowiłem dodać prosty backend oparty na node.js, aby nauczyć się czegoś więcej niż tylko frontendu. Projekt wykonałem sam w figmie, niestety nie mam zapisu :(
 
 # Technologie:
 ### Frontend:
+- Figma
 - Vue.js
 - Vuex
 - Vue Router
