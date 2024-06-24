@@ -3,7 +3,7 @@
 ### This was my second fullstack project based on Vue.js and Node.js.
 
 ### Pierwszy projekt: Strona budowlana
-<img align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/budowlana.png" /> 
+<img align="left" alt="photo" src="https://server.arturscibor.pl/file/imagesproject/Frontend-38e1c24e-0929-4668-9fa2-9091dc2d2f47-0.8987638861872578-1.png" /> 
 
 - link to the page: https://projekt2.strona.arturscibor.pl/aboutU
 - similar information: https://arturscibor.pl/projects/project/f6ece8b2-c4f5-4802-9535-b66ea10b2a35
@@ -50,7 +50,7 @@
 ### To był mój drugi projekt fullstack oparty na Vue.js i Node.js.
 
 ### Pierwszy projekt: Strona budowlana
-<img align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/budowlana.png" /> 
+<img align="left" alt="photo" src="https://server.arturscibor.pl/file/imagesproject/Frontend-38e1c24e-0929-4668-9fa2-9091dc2d2f47-0.8987638861872578-1.png" /> 
 
 - link do strony: [https://projekt2.strona.arturscibor.pl/aboutU](https://projekt2.strona.arturscibor.pl/aboutU)
 - podobne informacje: [https://arturscibor.pl/projects/project/f6ece8b2-c4f5-4802-9535-b66ea10b2a35](https://arturscibor.pl/projects/project/f6ece8b2-c4f5-4802-9535-b66ea10b2a35)
