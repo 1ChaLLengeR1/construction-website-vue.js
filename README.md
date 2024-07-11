@@ -2,7 +2,7 @@
 # Construction website - Vue.js
 ### This was my second fullstack project based on Vue.js and Node.js.
 
-### Pierwszy projekt: Strona budowlana
+### First project: Construction site
 <img align="left" alt="photo" src="https://server.arturscibor.pl/file/imagesproject/Frontend-38e1c24e-0929-4668-9fa2-9091dc2d2f47-0.8987638861872578-1.png" /> 
 
 - link to the page: https://projekt2.strona.arturscibor.pl/aboutU
@@ -48,7 +48,7 @@
 
 # PL
 # Strona budowlana - Vue.js
-### To był mój drugi projekt fullstack oparty na Vue.js i Node.js.
+### To był mój pierwszy projekt fullstack oparty na Vue.js i Node.js.
 
 ### Pierwszy projekt: Strona budowlana
 <img align="left" alt="photo" src="https://server.arturscibor.pl/file/imagesproject/Frontend-38e1c24e-0929-4668-9fa2-9091dc2d2f47-0.8987638861872578-1.png" /> 
