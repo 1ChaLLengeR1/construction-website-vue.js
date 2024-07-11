@@ -1,12 +1,12 @@
 # EN
 # Construction website - Vue.js
-### This was my second fullstack project based on Vue.js and Node.js.
+### This was my first fullstack project based on Vue.js and Node.js.
 
 ### First project: Construction site
 <img align="left" alt="photo" src="https://server.arturscibor.pl/file/imagesproject/Frontend-38e1c24e-0929-4668-9fa2-9091dc2d2f47-0.8987638861872578-1.png" /> 
 
-- link to the page: https://projekt2.strona.arturscibor.pl/aboutU
-- similar information: https://arturscibor.pl/projects/project/f6ece8b2-c4f5-4802-9535-b66ea10b2a35
+- link to the page: https://projekt1.strona.arturscibor.pl/
+- similar information: https://arturscibor.pl/projects/project/e41ae035-2eb1-4e7b-a4f7-14b73358f098
 
 # Project idea:
 ###### The idea for the website was to build a visual website for the client, but unfortunately the client gave up on the idea. This Project was supposed to be a simple showcase. While writing, I decided that I would add a simple backend based on node.js to learn something more than just the frontend. I made the project myself in Figma, unfortunately I don't have the save :(
